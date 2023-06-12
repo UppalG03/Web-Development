@@ -1,0 +1,15 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 700px;
+    height: 525px;
+}
+ul{
+    list-style-type:disc;
+}
+h1{
+    font-family: FranklinGothicLTPro-DmCm;
+    font-weight: 700;
+}
