@@ -1,0 +1,18 @@
+@font-face {
+    font-family: ;
+    src: url(FranklinGoth);
+}
+
+
+
+img {
+    width: 700px;
+    height: 525px;
+}
+ul{
+    list-style-type:disc;
+}
+
+h1{
+    font-family: 'FranklinGoth;
+}
